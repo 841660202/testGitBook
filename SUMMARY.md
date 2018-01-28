@@ -8,6 +8,4 @@
 * [前端](qian-duan-shu-biao-you-jian-da-kai-cai-dan.md)
   * [鼠标事件](qian-duan-shu-biao-you-jian-da-kai-cai-dan/shu-biao-shi-jian.md)
     * [右键打开菜单](qian-duan-shu-biao-you-jian-da-kai-cai-dan/shu-biao-shi-jian/you-jian-da-kai-cai-dan.md)
-* [工具](gong-ju.md)
-  * gitBook使用
 
