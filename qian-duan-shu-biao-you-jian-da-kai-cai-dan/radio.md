@@ -1,20 +1,21 @@
 ```
   /* 去掉radio 默认样式*/
   #radios label {
-	position: relative;
+    position: relative;
   }
-  
+
   input[type="radio"] {
-  	position: absolute;
-  	opacity: 0;
+      position: absolute;
+      opacity: 0;
   }
-  
-  
-  
-  
-  
-  
-  
+
+  /* 设置新的样式*/
+  input[class="super-happy"]:hover + svg,
+  input[class="super-happy"]:checked + svg,
+  input[class="super-happy"]:focus + svg {
+  	fill: rgb(0, 109, 217);
+  }
+
   <label for="super-happy1">
     <input type="radio" name="rating" class="super-happy" id="super-happy1" value="super-happy1" />
     <svg viewBox="0 0 24 24">
@@ -24,5 +25,5 @@
   </label>
 ```
 
-
+总结：svg是可以换成任意的标签或者是图片，因被label包裹，而实现点击label切换选中
 
