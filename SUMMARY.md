@@ -9,7 +9,7 @@
   * [鼠标事件](qian-duan-shu-biao-you-jian-da-kai-cai-dan/shu-biao-shi-jian.md)
     * [右键打开菜单](qian-duan-shu-biao-you-jian-da-kai-cai-dan/shu-biao-shi-jian/you-jian-da-kai-cai-dan.md)
   * [颜色](qian-duan-shu-biao-you-jian-da-kai-cai-dan/yan-se.md)
-    * hsla
+    * [hsla](qian-duan-shu-biao-you-jian-da-kai-cai-dan/yan-se/hsla.md)
 * [🔧工具集](d83d-dd27-gong-ju-ji.md)
   * [gitBook使用介绍](d83d-dd27-gong-ju-ji/gitbookshi-yong-jie-shao.md)
 
