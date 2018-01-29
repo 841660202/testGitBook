@@ -13,7 +13,7 @@
   input[class="super-happy"]:hover + svg,
   input[class="super-happy"]:checked + svg,
   input[class="super-happy"]:focus + svg {
-  	fill: rgb(0, 109, 217);
+      fill: rgb(0, 109, 217);
   }
 
   <label for="super-happy1">
@@ -25,5 +25,5 @@
   </label>
 ```
 
-总结：svg是可以换成任意的标签或者是图片，因被label包裹，而实现点击label切换选中
+**总结：svg是可以换成任意的标签或者是图片，因被label包裹，而实现点击label切换选中**
 
