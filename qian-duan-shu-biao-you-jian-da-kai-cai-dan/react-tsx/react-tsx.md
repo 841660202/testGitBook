@@ -91,7 +91,6 @@ export default function Button(props: ButtonProps) {
         </button>
     );
 }
-
 ```
 
 ```
@@ -124,7 +123,6 @@ export default function Main(props: { children: React.ReactNode[] }) {
         </div>
     );
 }
-
 ```
 
 ```
@@ -143,7 +141,6 @@ export default function MenuItem(props: MenuItemProps) {
 ```
 
 ```
-
 import * as React from 'react';
 import MenuItem from './menu-item';
 
